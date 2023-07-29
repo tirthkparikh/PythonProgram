@@ -98,11 +98,6 @@ Enter n = 8
 
 
 
-# 1 2 3 4 5
-# 2 3 4 5
-# 3 4 5
-# 4 5
-# 5
 
 # for i in range (0,5):
 #     for j in range (i+1,6):
