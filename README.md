@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-![Python Learning Repository](https://hugovk.github.io/python-logos/img/Python%20Canarias.jpg)](https://pypi.python.org/pypi/ibm-analytics-engine-python) <!-- Replace the link with the actual path to the Python Learning Repository image -->
+![Python Learning Repository](https://hugovk.github.io/python-logos/img/Python%20Canarias.jpg)<!-- Replace the link with the actual path to the Python Learning Repository image -->
 
 Welcome to my **Python Learning Repository**! This repository contains a collection of Python code files organized on a weekly basis. Each week's folder covers different topics related to Python, including Python basics, loops, functions, lists, and much more. This README will help you navigate through the repository and understand its structure.
 
