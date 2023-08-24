@@ -1,0 +1,1 @@
+The cat and the dog played in the park The cat chased the dog
